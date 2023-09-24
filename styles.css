@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table, th, td{
+	border: 2px solid black;
+	text-align: center;
+	
+}
+#html{
+	background-color: black;
+	color: white;
+}
+.pad{
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+.pad1{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
